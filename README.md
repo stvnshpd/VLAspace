@@ -1,4 +1,6 @@
-# OpenVLA: An Open-Source Vision-Language-Action Model
+# VLAspace: An Open Simulator for Vision-Language-Action Models
+
+Train and test vision-language action robots in a simulator.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.09246-df2a2a.svg?style=for-the-badge)](https://arxiv.org/abs/2406.09246)
 [![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow?style=for-the-badge)](https://huggingface.co/openvla/openvla-7b)
